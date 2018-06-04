@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+button {
+  background-color: yellowgreen;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+#box {
+  display: inline-block;
+  width: 700px;
+  background-color: rgb(213, 253, 160);
+  border: 2px dashed black;
+  padding: 30px;
+}
+
+
